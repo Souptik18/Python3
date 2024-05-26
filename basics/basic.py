@@ -10,5 +10,8 @@
 # print(arr)
 
 # import from importlib import reload
+def add(a,b):
+  print(a+b)
+
 
 
