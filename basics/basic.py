@@ -10,12 +10,15 @@
 # print(arr)
 
 # import from importlib import reload
-def add(a,b):
-  print(a+b)
+# def add(a,b):
+#   print(a+b)
 
-def divide(a,b):
-  print(a/b)
+# def divide(a,b):
+#   print(a/b)
 
-divide(2,4)
+# divide(2,4)
 
+import pandas
+
+print("Hello")
 
