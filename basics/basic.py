@@ -18,7 +18,7 @@
 
 # divide(2,4)
 
-import pandas
+# import pandas
 
-print("Hello")
+# print("Hello")
 
