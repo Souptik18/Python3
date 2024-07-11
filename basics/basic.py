@@ -21,15 +21,3 @@
 # import pandas
 
 # print("Hello")
-
-# adding 
-# code
-# is    
-# very
-# easy
-
-# write
-# code
-# with proper easiness
-# github daily 
-# push code and update code
