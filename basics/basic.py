@@ -30,4 +30,4 @@
 
 # write
 # code
-# with
+# with proper easiness
